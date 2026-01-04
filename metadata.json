@@ -1,0 +1,5 @@
+
+{
+  "name": "Grandmaster 3D Chess",
+  "description": "A high-fidelity 3D chess game built with React Three Fiber and chess.js, featuring rule-based movement, local multiplayer, and smooth animations."
+}
